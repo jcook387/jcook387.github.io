@@ -1,0 +1,31 @@
+main {
+  background-color: brown;
+}
+body {
+  background-color: lightblue;
+  width: 80%;
+}
+h1 {
+  color: navy;
+  background-color: white;
+  font-family: "Comic Sans MS";
+}
+h2 {
+  color: yellow;
+  background-color: green;
+  font-family: Trebuchet MS, sans-serif;
+}
+h3 {
+  color: aliceblue;
+  background-color: red;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+  color: orangered;
+  background-color: #47472a;
+  font-family: Helvetica;
+}
+footer {
+  font-style: italic;
+  background-color: antiquewhite;
+}
