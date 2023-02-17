@@ -1,0 +1,46 @@
+body {
+  background-color: yellow;
+}
+h1, h2, h3 {
+  text-align: center;
+}
+#wrapper {
+  width: 80%;
+  background-color: skyblue;
+  margin: auto;
+  box-shadow: 10px 8px;
+}
+div {
+  width: 90%;
+  margin: auto;
+}
+.itembox {
+  border: double;
+  border-radius: 25px;
+  box-shadow: 10px 7px;
+  background-color: lime;
+  color: black;
+  padding-top: 7px;
+  padding-right: 7px;
+  padding-bottom: 3px;
+  padding-left: 7px;
+}
+.favorite {
+  border: dotted;
+  border-radius: 25px;
+  box-shadow: 10px 7px;
+  background-color: pink;
+  color: purple;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+ol {
+  background-color: #2273c3;
+  list-style-type: upper-roman;
+}
+ul {
+  background-color: #c782f8;
+  list-style-type: square;
+}
