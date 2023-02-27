@@ -1,0 +1,34 @@
+main {
+  background-color: teal;
+  color: #fb3737;
+}
+body {
+  background-image: url("https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ1NDRmYWVkOTc4MGNkYThiMTY4YzJmNWI0NTJhODI4OTVmMjIwNCZjdD1n/NoGhgVB9ybIJ2/giphy.gif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+h1 {
+  text-align: center;
+  background-color: teal;
+}
+#wrapper {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+ul {
+  list-style-image: url("https://smartguin.com/all-smileys/google/monkey-1509.png");
+}
+.specialborder {
+  border: 20px solid transparent;
+  border-image: url("https://webstockreview.net/images/jungle-clipart-jungle-design-5.png") 60 round;
+}
+.Monkey {
+  height: 300px;
+}
+p {
+  background-color: teal;
+  width: 40px;
+  margin: auto;
+}
