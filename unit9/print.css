@@ -1,0 +1,29 @@
+aside,
+footer,
+#sidebar {
+  display: none;
+}
+li {
+  display: none;
+}
+
+img {
+  display: none;
+}
+
+body {
+  font-size: 1.25em;
+}
+
+body {
+  background-color: white;
+  color: black;
+}
+
+a:after {
+  content: " (" attr(href) ") ";
+}
+
+.no-print {
+  display: none;
+}
