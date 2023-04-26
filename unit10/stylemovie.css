@@ -1,0 +1,17 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  table {
+    text-align: center;
+  }
+  td {
+    border: 1px dashed;
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: #d9d9d9;
+  }
+  tr {
+    border: 1px solid;
+    background-color: white;
+  }

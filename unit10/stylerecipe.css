@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+img {
+  width: 120px;
+  height: 140px;
+}
+table {
+  text-align: center;
+  font-size: 25px;
+  margin: auto;
+  width: 600px;
+  height: 00px;
+  border: 4px solid;
+}
+td, tr {
+  border-collapse: collapse;
+  border: 1px solid;
+  padding: 4px;
+}
+
+thead {
+  text-align: center;
+  background-color: lime;
+}
+p {
+  margin: auto;
+  border: 2px double;
+  width: 45px;
+}

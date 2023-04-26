@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  table {
+    text-align: center;
+    border: 2px solid;
+    background-color: blue;
+  }
+  td, tr  {
+    background-color: white;
+    border: 1px solid;
+  }
