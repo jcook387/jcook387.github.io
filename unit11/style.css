@@ -1,0 +1,16 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    background-image: url(https://th.bing.com/th/id/R.5399b9ea71c0d36ee018b2b798e717b4?rik=zlLJQmlFqxVMzg&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f08%2fFree-Travel-Backgrounds-Download-HD.jpg&ehk=LP131bqXt3M%2fU8%2fPUJc47S4lj6eEQ3QAeDZ9MLk9sq4%3d&risl=&pid=ImgRaw&r=0)
+  }
+  td {
+    border: 4px solid;
+    padding: 3px;
+    font-size: 18px;
+    background: white;
+  }
+  h1 {
+    text-shadow: 2px 2px 5px orange;
+  }
