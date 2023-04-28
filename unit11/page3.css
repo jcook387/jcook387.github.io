@@ -5,3 +5,13 @@ html {
   body {
     background-image: url(https://wallpaperaccess.com/full/136072.jpg)
   }
+  fieldset {
+    background-color: rgb(196, 249, 255);
+    width: 28%;
+  }
+  legend {
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+    background-color: rgb(160, 250, 208);
+  }
